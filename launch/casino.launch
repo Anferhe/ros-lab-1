@@ -1,0 +1,4 @@
+<launch>
+	<node name="casino_server" pkg="casino" type="roulette_server.py" />
+	<node name="casino_client" pkg="casino" type="roulette_client.py" />
+</launch>

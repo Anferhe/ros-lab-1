@@ -1,0 +1,6 @@
+string color
+uint8 number
+
+---
+
+string response
