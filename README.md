@@ -2,7 +2,7 @@
 
 launch-файл не работает(
 
-Команды для запуска:
+Команды для запуска:  
 roscore  
 rosrun casino roulette_server.py  
 rosrun casino roulette_client.py  
